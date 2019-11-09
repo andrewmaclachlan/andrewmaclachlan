@@ -24,9 +24,9 @@ organizations:
   url: "https://www.ucl.ac.uk/bartlett/casa/"
 role: Teaching Fellow in Spatial Data Science and Visualisation 
 social:
-- icon: paper-plane
-  icon_pack: fas
-  link: /contact
+# - icon: paper-plane
+# icon_pack: fas
+#  link: /contact
 - icon: envelope
   icon_pack: fas
   link: '#contact'
