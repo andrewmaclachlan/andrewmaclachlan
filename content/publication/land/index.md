@@ -22,7 +22,7 @@ publishDate: "2017-07-0"
 summary: This research integrates high spatial resolution orthophotos and Landsat imagery to identify differences across a range of diverse urban subsets within the rapidly expanding Perth Metropolitan Region (PMR)
 tags:
 - Source Themes
-title: Urban Growth Dynamics in Perth, Western Australia: Using Applied Remote Sensing for Sustainable Future Planning
+title: Urban Growth Dynamics in Perth, Western Australia, Using Applied Remote Sensing for Sustainable Future Planning
 #url_code: "https://www.tandfonline.com/doi/full/10.1080/01431161.2017.1346403"
 url_dataset: ""
 url_pdf: https://www.tandfonline.com/doi/pdf/10.1080/01431161.2017.1346403?needAccess=true
