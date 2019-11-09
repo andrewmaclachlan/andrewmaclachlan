@@ -9,11 +9,11 @@ date: "2017-12-02"
 doi: "https://doi.org/10.3390/urbansci1040038"
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**MacLachlan et al. 2017**]()'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Urban Science*(1)'
+publication: '*Urban Science, 1*(4)'
 publication_short: ""
 publication_types:
 - "2"
