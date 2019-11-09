@@ -5,9 +5,9 @@ authors:
 - Eloise Biggs
 - Gareth Roberts
 - Bryan Boruff
-date: "2015-09-01T00:00:00Z"
-doi: ""
-featured: false
+date: "2017-12-02"
+doi: "https://doi.org/10.3390/urbansci1040038"
+featured: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
@@ -18,13 +18,12 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#slides: example
+summary: Through a multi-sensor approach, this research disentangles the complex spatial heterogeneous variations between changes in land cover (Landsat data) and land surface temperature (MODIS data), to understand the urban heat island effect dynamics in greater detail for appropriate policy integration.
 tags:
 - Source Themes
 title: Urbanisation-Induced Land Cover Temperature Dynamics for Sustainable Future Urban Heat Island Mitigation
-url_code: "https://www.mdpi.com/2413-8851/1/4/38"
+#url_code: "https://www.mdpi.com/2413-8851/1/4/38"
 url_dataset: ""
 url_pdf: https://www.mdpi.com/2413-8851/1/4/38/pdf
 #url_poster: ""
