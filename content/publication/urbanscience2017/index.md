@@ -7,7 +7,7 @@ authors:
 - Bryan Boruff
 date: "2017-12-02"
 doi: "https://doi.org/10.3390/urbansci1040038"
-featured: true
+featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
@@ -33,12 +33,4 @@ url_pdf: https://www.mdpi.com/2413-8851/1/4/38/pdf
 #url_video: ""
 ---
 
-#{{% alert note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import #publication metadata into their reference management software.
-#{{% /alert %}}
-
-#{{% alert note %}}
-#Click the *Slides* button above to demo Academic's Markdown slides feature.
-#{{% /alert %}}
-
-#Supplementary notes can be added here, including [code and #math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Supplementary material for the paper can be found [here] (https://www.mdpi.com/2413-8851/1/4/38#supplementary).
