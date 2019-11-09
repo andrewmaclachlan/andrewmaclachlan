@@ -1,31 +1,31 @@
 ---
-abstract: Urban land cover is one of the fastest global growing land cover types which permanently alters land surface properties and atmospheric interactions, often initiating an urban heat island effect. Urbanisation comprises a number of land cover changes within metropolitan regions. However, these complexities have been somewhat neglected in temperature analysis studies of the urban heat island effect, whereby over-simplification ignores the heterogeneity of urban surfaces and associated land surface temperature dynamics. Accurate spatial information pertaining to these land cover change—temperature relationships across space is essential for policy integration regarding future sustainable city planning to mitigate urban heat impacts. Through a multi-sensor approach, this research disentangles the complex spatial heterogeneous variations between changes in land cover (Landsat data) and land surface temperature (MODIS data), to understand the urban heat island effect dynamics in greater detail for appropriate policy integration. The application area is the rapidly expanding Perth Metropolitan Region (PMR) in Western Australia (WA). Results indicate that land cover change from forest to urban is associated with the greatest annual daytime and nighttime temperature change of 0.40 °C and 0.88 °C respectively. Conversely, change from grassland to urban minimises temperature change at 0.16 °C and 0.77 °C for annual daytime and nighttime temperature respectively. These findings are important to consider for proposed developments of the city as such detail is not currently considered in the urban growth plans for the PMR. The novel intra-urban research approach presented can be applied to other global metropolitan regions to facilitate future transition towards sustainable cities, whereby urban heat impacts can be better managed through optimised land use planning, moving cities towards alignment with the 2030 sustainable development goals and the City Resilience Framework (CRF)
+abstract: Urban areas are Earth’s fastest growing land use that impact hydrological and ecological systems and the surface energy balance. The identification and extraction of accurate spatial information relating to urban areas is essential for future sustainable city planning owing to its importance within global environmental change and human–environment interactions. However, monitoring urban expansion using medium resolution (30–250 m) imagery remains challenging due to the variety of surface materials that contribute to measured reflectance resulting in spectrally mixed pixels. This research integrates high spatial resolution orthophotos and Landsat imagery to identify differences across a range of diverse urban subsets within the rapidly expanding Perth Metropolitan Region (PMR), Western Australia. Results indicate that calibrating Landsat-derived subpixel land-cover estimates with correction values (calculated from spatially explicit comparisons of subpixel Landsat values to classified high-resolution data which accounts for over [under] estimations of Landsat) reduces moderate resolution urban area over (under) estimates by on an average 55.08% for the PMR. This approach can be applied to other urban areas globally through use of frequently available and/or low-cost high spatial resolution imagery (e.g. using Google Earth). This will improve urban growth estimations to help monitor and measure change whilst providing metrics to facilitate sustainable urban development targets within cities around the world.
 authors:
 - Andrew MacLachlan
-- Eloise Biggs
 - Gareth Roberts
+- Eloise Biggs
 - Bryan Boruff
-date: "2017-12-02"
-doi: "https://doi.org/10.3390/urbansci1040038"
+date: "2017-07-06"
+doi: "https://doi.org/10.1080/01431161.2017.1346403"
 featured: false
 image:
   caption: 'Image credit: [**MacLachlan et al. 2017**]()'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Urban Science, 1*(4)'
+publication: '*International Jounral of Remote Sensing, 38*(20)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-07-0"
 #slides: example
-summary: Through a multi-sensor approach, this research disentangles the complex spatial heterogeneous variations between changes in land cover (Landsat data) and land surface temperature (MODIS data), to understand the urban heat island effect dynamics in greater detail for appropriate policy integration.
+summary: This research integrates high spatial resolution orthophotos and Landsat imagery to identify differences across a range of diverse urban subsets within the rapidly expanding Perth Metropolitan Region (PMR)
 tags:
 - Source Themes
-title: Urban Growth Dynamics in Perth, Western Australia: Using Applied Remote Sensing for Sustainable Future Planning
-#url_code: "https://www.mdpi.com/2413-8851/1/4/38"
+title: Subpixel land-cover classification for improved urban area estimates using Landsat
+#url_code: "https://www.tandfonline.com/doi/full/10.1080/01431161.2017.1346403"
 url_dataset: ""
-url_pdf: https://www.mdpi.com/2413-8851/1/4/38/pdf
+url_pdf: https://www.tandfonline.com/doi/pdf/10.1080/01431161.2017.1346403?needAccess=true
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
@@ -33,4 +33,4 @@ url_pdf: https://www.mdpi.com/2413-8851/1/4/38/pdf
 #url_video: ""
 ---
 
-Supplementary material for the paper can be found [here] (https://www.mdpi.com/2413-8851/1/4/38#supplementary).
+Supplementary material for the paper can be found [here] (https://ndownloader.figshare.com/articles/5188630/versions/2).
