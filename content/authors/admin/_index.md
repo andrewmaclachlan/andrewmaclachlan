@@ -48,4 +48,4 @@ user_groups:
 - Visitors
 ---
 
-test Andrew's research interests revolve around developing data-driven urban development recommendations to enhance future sustainability and optimise resource investment. This covers the broad themes of: city science, spatial data analysis, dynamic population modelling and earth observation. His doctoral research used Earth observation to quantify urban growth and demonstrated its application to sustainable city development. With a background in remote sensing Andrew has also been involved with field validation of Sentinel-3 data. 
+Andrew's research interests revolve around developing data-driven urban development recommendations to enhance future sustainability and optimise resource investment. This covers the broad themes of: city science, spatial data analysis, dynamic population modelling and earth observation. His doctoral research used Earth observation to quantify urban growth and demonstrated its application to sustainable city development. With a background in remote sensing Andrew has also been involved with field validation of Sentinel-3 data. 
