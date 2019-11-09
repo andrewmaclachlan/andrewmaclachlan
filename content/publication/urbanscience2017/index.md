@@ -7,7 +7,7 @@ authors:
 - Bryan Boruff
 date: "2017-12-02"
 doi: "https://doi.org/10.3390/urbansci1040038"
-featured: false
+featured: true
 image:
   caption: 'Image credit: [**MacLachlan et al. 2017**]()'
   focal_point: ""

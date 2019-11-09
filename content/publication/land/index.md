@@ -1,31 +1,31 @@
 ---
-abstract: Urban areas are Earth’s fastest growing land use that impact hydrological and ecological systems and the surface energy balance. The identification and extraction of accurate spatial information relating to urban areas is essential for future sustainable city planning owing to its importance within global environmental change and human–environment interactions. However, monitoring urban expansion using medium resolution (30–250 m) imagery remains challenging due to the variety of surface materials that contribute to measured reflectance resulting in spectrally mixed pixels. This research integrates high spatial resolution orthophotos and Landsat imagery to identify differences across a range of diverse urban subsets within the rapidly expanding Perth Metropolitan Region (PMR), Western Australia. Results indicate that calibrating Landsat-derived subpixel land-cover estimates with correction values (calculated from spatially explicit comparisons of subpixel Landsat values to classified high-resolution data which accounts for over [under] estimations of Landsat) reduces moderate resolution urban area over (under) estimates by on an average 55.08% for the PMR. This approach can be applied to other urban areas globally through use of frequently available and/or low-cost high spatial resolution imagery (e.g. using Google Earth). This will improve urban growth estimations to help monitor and measure change whilst providing metrics to facilitate sustainable urban development targets within cities around the world.
+abstract: Earth observation data can provide valuable assessments for monitoring the spatial extent of (un)sustainable urban growth of the world’s cities to better inform planning policy in reducing associated economic, social and environmental costs. Western Australia has witnessed rapid economic expansion since the turn of the century founded upon extensive natural resource extraction. Thus, Perth, the state capital of Western Australia, has encountered significant population and urban growth in response to the booming state economy. However, the recent economic slowdown resulted in the largest decrease in natural resource values that Western Australia has ever experienced. Here, we present multi-temporal urban expansion statistics from 1990 to 2015 for Perth, derived from Landsat imagery. Current urban estimates used for future development plans and progress monitoring of infill and density targets are based upon aggregated census data and metrics unrepresentative of actual land cover change, underestimating overall urban area. Earth observation provides a temporally consistent methodology, identifying areal urban area at higher spatial and temporal resolution than current estimates. Our results indicate that the spatial extent of the Perth Metropolitan Region has increased 45% between 1990 and 2015, over 320 km2. We highlight the applicability of earth observation data in accurately quantifying urban area for sustainable targeted planning practices.
 authors:
 - Andrew MacLachlan
-- Gareth Roberts
 - Eloise Biggs
+- Gareth Roberts
 - Bryan Boruff
-date: "2017-07-06"
-doi: "https://doi.org/10.1080/01431161.2017.1346403"
+date: "2017-01-24"
+doi: "https://doi.org/10.3390/land6010009"
 featured: false
 image:
   caption: 'Image credit: [**MacLachlan et al. 2017**]()'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*International Jounral of Remote Sensing, 38*(20)'
+publication: '*Land, 6*(1)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-07-0"
+publishDate: "2017-01-24"
 #slides: example
-summary: This research integrates high spatial resolution orthophotos and Landsat imagery to identify differences across a range of diverse urban subsets within the rapidly expanding Perth Metropolitan Region (PMR)
+summary: Here, we present multi-temporal urban expansion statistics from 1990 to 2015 for Perth, derived from Landsat imagery.
 tags:
 - Source Themes
-title: Urban Growth Dynamics in Perth, Western Australia; Using Applied Remote Sensing for Sustainable Future Planning
-#url_code: "https://www.tandfonline.com/doi/full/10.1080/01431161.2017.1346403"
+title: Urban Growth Dynamics in Perth, Western Australia, Using Applied Remote Sensing for Sustainable Future Planning
+#url_code: "https://www.mdpi.com/2073-445X/6/1/9"
 url_dataset: ""
-url_pdf: https://www.tandfonline.com/doi/pdf/10.1080/01431161.2017.1346403?needAccess=true
+url_pdf: https://www.mdpi.com/2073-445X/6/1/9/pdf
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
@@ -33,4 +33,4 @@ url_pdf: https://www.tandfonline.com/doi/pdf/10.1080/01431161.2017.1346403?needA
 #url_video: ""
 ---
 
-Supplementary material for the paper can be found [here] (https://ndownloader.figshare.com/articles/5188630/versions/2).
+Supplementary material for the paper can be found [here] (https://www.mdpi.com/2073-445X/6/1/9/s1).
