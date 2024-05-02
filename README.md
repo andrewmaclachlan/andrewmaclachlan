@@ -31,10 +31,12 @@ I apply and maintain a range of scholarship funding for our MSc, including:
 <hr>
 <p align="center">
 <br>
-<a target="_blank" href="https://www.linkedin.com/in/amaclachlan/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/amaclachlan/"><src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 <a target="_blank" href="mailto:a.maclachlan@ucl.ac.uk"><img alt="Static Badge" src="https://img.shields.io/badge/-Email-FF4088?style=for-the-badge&logo=maildotru&logoColor=white&logoSize=auto"></a>
-<a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-<a ![](https://vbr.nathanchung.dev/badge?page_id=andrewmaclachlan&text=Fans&lcolor=ff4d6d&color=555555&style=for-the-badge&logo=Github&hit=true)></a>
+<a target="_blank" href="https://twitter.com/Thomas_George_T"><src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+
+  
+  ![](https://vbr.nathanchung.dev/badge?page_id=andrewmaclachlan&text=Fans&lcolor=ff4d6d&color=555555&style=for-the-badge&logo=Github&hit=true)>
 
 <br>
 </p>       
