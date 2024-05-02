@@ -2,11 +2,7 @@
 
 ### Hi there 👋 I'm Andy MacLachlan
 
-- 🔎 I'm researching: water accessibility in Tanzania   
-- 🌱 I’m currently: learning PostGIS
-- 💬 Ask me about: spatial analysis    
-
-## About me
+📖 ## About me
 
 * I'm an Associate Professor in spatial data science and visualisation at the Centre for Advanced Spatial Analysis (CASA), University College London.
 * My expertise lie in remote sensing, although in recent years this has expanded to any project using spatial data and geographical information science.
@@ -48,4 +44,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔎 I'm researching: water accessibility in Tanzania   
+- 🌱 I’m currently: learning PostGIS
+- 💬 Ask me about: spatial analysis    
+
+
 -->
