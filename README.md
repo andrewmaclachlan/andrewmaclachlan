@@ -1,4 +1,3 @@
-![](https://vbr.nathanchung.dev/badge?page_id=andrewmaclachlan&text=Fans&lcolor=ff4d6d&color=555555&style=for-the-badge&logo=Github&hit=true)
 
 ### Hi there 👋 I'm Andy MacLachlan
 
@@ -25,34 +24,23 @@ My research revovles around developing data-driven urban development recommendat
 > If it's not applied, i'm not interested. 
 
 ### 💰 Scholarships / other
-I apply and maintain a range of scholarships for our MSc, including:
+I apply and maintain a range of scholarship funding for our MSc, including:
 * [Office for Students Conversion Course funding (Urban Futures)](https://www.ucl.ac.uk/bartlett/casa/study/scholarships/casa-urban-futures-masters-scholarships)
 * [Commonwealth Shared Scholarship Scheme](https://www.ucl.ac.uk/scholarships/commonwealth-shared-scholarship-scheme#:~:text=The%20aim%20of%20the%20Commonwealth,study%20in%20the%20United%20Kingdom.)
 
 <hr>
 <p align="center">
 <br>
-<a target="_blank" href="https://thomasgeorgethomas.com/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
 <a target="_blank" href="https://www.linkedin.com/in/amaclachlan/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-
-
-<a target="_blank" href="mailto:a.maclachlan@ucl.ac.uk"><img alt="Static Badge" src="https://img.shields.io/badge/-Email-FF4088?style=for-the-badge&logo=maildotru&logoColor=white&logoSize=auto" >
-
-   
-<a target="_blank" href="mailto:a.maclachlan@ucl.ac.uk"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Outlook&logoColor=white"></img></a>
-
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=flat&logo=microsoftoutlook">
-
-
-<a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="mailto:a.maclachlan@ucl.ac.uk"><img alt="Static Badge" src="https://img.shields.io/badge/-Email-FF4088?style=for-the-badge&logo=maildotru&logoColor=white&logoSize=auto"></a>
+<a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+![](https://vbr.nathanchung.dev/badge?page_id=andrewmaclachlan&text=Fans&lcolor=ff4d6d&color=555555&style=for-the-badge&logo=Github&hit=true)
 
 <br>
 </p>       
 
 
-## 📨 Contact me
 
-a.maclachlan@ucl.ac.uk
 
 
 
