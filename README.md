@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=andrewmaclachlan&abbreviated=true)
 
-![](https://vbr.nathanchung.dev/badge?page_id=andrewmaclachlan&text=Fans&lcolor=a4133c&color=555555&style=for-the-badge&logo=Github&hit=false)
+![](https://vbr.nathanchung.dev/badge?page_id=andrewmaclachlan&text=Fans&lcolor=a4133c&color=555555&style=for-the-badge&logo=Github&hit=true)
 
 ### Hi there 👋 I'm Andy MacLachlan
 
