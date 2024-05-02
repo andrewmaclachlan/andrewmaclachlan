@@ -28,7 +28,7 @@ I apply and maintain a range of scholarship funding for our MSc, including:
 * [Office for Students Conversion Course funding (Urban Futures)](https://www.ucl.ac.uk/bartlett/casa/study/scholarships/casa-urban-futures-masters-scholarships)
 * [Commonwealth Shared Scholarship Scheme](https://www.ucl.ac.uk/scholarships/commonwealth-shared-scholarship-scheme#:~:text=The%20aim%20of%20the%20Commonwealth,study%20in%20the%20United%20Kingdom.)
 
-I typically 
+I teach at other institutions a few times a year, this has included the MSc Modelling for Global Health and the University of Oxford and a guest workshop at IIT Hyderabad. 
 
 <hr>
 <p align="center">
@@ -59,6 +59,5 @@ Here are some ideas to get you started:
 - 🔎 I'm researching: water accessibility in Tanzania   
 - 🌱 I’m currently: learning PostGIS
 - 💬 Ask me about: spatial analysis    
-
 
 -->
