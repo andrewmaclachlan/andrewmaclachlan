@@ -38,6 +38,9 @@ I apply and maintain a range of scholarships for our MSc, including:
    
 <a target="_blank" href="mailto:a.maclachlan@ucl.ac.uk"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Outlook&logoColor=white"></img></a>
 
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=flat&logo=microsoftoutlook">
+
+
 <a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
 <br>
