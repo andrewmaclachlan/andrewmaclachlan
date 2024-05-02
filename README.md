@@ -25,8 +25,9 @@ My research revovles around developing data-driven urban development recommendat
 > If it's not applied, i'm not interested. 
 
 ### 💰 Scholarships / other
-
-* 
+I apply and maintain a range of scholarships for our MSc, including:
+* [Office for Students Conversion Course funding (Urban Futures)](https://www.ucl.ac.uk/bartlett/casa/study/scholarships/casa-urban-futures-masters-scholarships)
+* [Commonwealth Shared Scholarship Scheme](https://www.ucl.ac.uk/scholarships/commonwealth-shared-scholarship-scheme#:~:text=The%20aim%20of%20the%20Commonwealth,study%20in%20the%20United%20Kingdom.)
 
 ## 📨 Contact me
 
