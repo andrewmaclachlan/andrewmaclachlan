@@ -28,6 +28,8 @@ I apply and maintain a range of scholarship funding for our MSc, including:
 * [Office for Students Conversion Course funding (Urban Futures)](https://www.ucl.ac.uk/bartlett/casa/study/scholarships/casa-urban-futures-masters-scholarships)
 * [Commonwealth Shared Scholarship Scheme](https://www.ucl.ac.uk/scholarships/commonwealth-shared-scholarship-scheme#:~:text=The%20aim%20of%20the%20Commonwealth,study%20in%20the%20United%20Kingdom.)
 
+I typically 
+
 <hr>
 <p align="center">
 <a target="_blank" href="mailto:a.maclachlan@ucl.ac.uk"><img alt="Static Badge" src="https://img.shields.io/badge/-Email-FF4088?style=flat&logo=maildotru&logoColor=white&logoSize=auto"></a>
