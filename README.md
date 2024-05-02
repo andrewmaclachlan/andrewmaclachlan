@@ -31,9 +31,7 @@ I apply and maintain a range of scholarship funding for our MSc, including:
 <hr>
 <p align="center">
 <a target="_blank" href="mailto:a.maclachlan@ucl.ac.uk"><img alt="Static Badge" src="https://img.shields.io/badge/-Email-FF4088?style=flat&logo=maildotru&logoColor=white&logoSize=auto"></a>
-
 <a target="_blank" href="https://twitter.com/andymaclachlan"><img alt="Static Badge" src="https://img.shields.io/badge/- Twitter-1DA1F2?style=flat&logo=x&logoColor=white&logoSize=auto"></a>
-
 <a target="_blank" href="https://www.linkedin.com/in/amaclachlan/"><img alt="Static Badge" src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white&logoSize=auto"></a>
 
 
