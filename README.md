@@ -17,21 +17,16 @@ I supervise doctoral researchers, MSc students and lead two MSc modules:
 * [Geographic information systems and science](https://andrewmaclachlan.github.io/CASA0005repo/)
 * [Remotely sensing cities and environments](https://andrewmaclachlan.github.io/CASA0023/)
 
-I also run our MSc Urban Spatial Science
+I run CASA's [MSc Urban Spatial Science programme](https://www.ucl.ac.uk/bartlett/casa/study/urban-spatial-science-msc)
 
 ### 🔎 Research
-My research revovles around developing data-driven urban development recommendations to enhance future sustainability and optimise resource investment. 
-
-
+My research revovles around developing data-driven urban development recommendations to enhance future sustainability and optimise resource investment. This has included work on Urban Heat Islands and more recently water accessibility in Tanzania using PostGIS.
 
 > If it's not applied, i'm not interested. 
 
-### 🧑 Engagement
+### 💰 Scholarships / other
 
-
-### 💰 Scholarships
-
-
+* 
 
 ## 📨 Contact me
 
