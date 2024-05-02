@@ -1,6 +1,4 @@
-![License](https://img.shields.io/github/license/andrewmaclachlan/andrewmaclachlan-T?style=flat)
-![ViewCount](http://bit.ly/andrewmaclachlan-Github-Visits)
-
+![](https://komarev.com/ghpvc/?username=andrewmaclachlan&abbreviated=true)
 ### Hi there 👋 I'm Andy MacLachlan
 
 An academic 
