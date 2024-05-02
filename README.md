@@ -2,31 +2,40 @@
 
 ### Hi there 👋 I'm Andy MacLachlan
 
-📖 ## About me
+## 📖 About me
 
 * I'm an Associate Professor in spatial data science and visualisation at the Centre for Advanced Spatial Analysis (CASA), University College London.
 * My expertise lie in remote sensing, although in recent years this has expanded to any project using spatial data and geographical information science.
+* R is my language of choice
 
-> "A jack of all trades is a master of none, but oftentimes better than a master of one"
+> "A jack of all trades is a master of none, **but oftentimes better than a master of one**"
 
-## What i'm doing
+## 🏗️ What i'm doing
 
-### Teach
-I teach two MSc modules:
+### 👨‍🏫 Teach
+I supervise doctoral researchers, MSc students and lead two MSc modules:
 * [Geographic information systems and science](https://andrewmaclachlan.github.io/CASA0005repo/)
 * [Remotely sensing cities and environments](https://andrewmaclachlan.github.io/CASA0023/)
 
-### Research
+I also run our MSc Urban Spatial Science
+
+### 🔎 Research
+My research revovles around developing data-driven urban development recommendations to enhance future sustainability and optimise resource investment. 
 
 
-###  
+
+> If it's not applied, i'm not interested. 
+
+### 🧑 Engagement
 
 
-## Contact me
+### 💰 Scholarships
 
-email 
-revolve around developing data-driven urban development recommendations to enhance future sustainability and optimise resource investment. This covers the broad themes of: city science, spatial
-data analysis, dynamic population modelling and earth observation
+
+
+## 📨 Contact me
+
+a.maclachlan@ucl.ac.uk
 
 
 
