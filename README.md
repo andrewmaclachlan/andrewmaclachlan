@@ -1,4 +1,14 @@
-### Hi there 👋
+![License](https://img.shields.io/github/license/andrewmaclachlan/andrewmaclachlan-T?style=flat)
+![ViewCount](http://bit.ly/andrewmaclachlan-Github-Visits)
+
+### Hi there 👋 I'm Andy MacLachlan
+
+An academic 
+
+- 🌱 I’m currently: learning PostGIS
+- 💬 Ask me about: Spatial analysis    
+
+
 
 <!--
 **andrewmaclachlan/andrewmaclachlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
