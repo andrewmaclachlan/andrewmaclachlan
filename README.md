@@ -4,7 +4,7 @@
 ## 📖 About me
 
 * I'm an Associate Professor in spatial data science and visualisation at the Centre for Advanced Spatial Analysis (CASA), University College London.
-* My expertise lie in remote sensing, although in recent years this has expanded to any project using spatial data and geographical information science.
+* My expertise lies in remote sensing, although in recent years this has expanded to any project using spatial data and geographical information science.
 * R is my language of choice, but i also use PostGIS and Google Earth Engine
 
 > "A jack of all trades is a master of none, **but oftentimes better than a master of one**"
